@@ -508,6 +508,9 @@
     <Content Include="README.md" />
     <Content Include="Properties\Cognifide.PowerShell.psd1" />
     <Content Include="Console\Services\RemoteScriptCall.ashx" />
+    <Content Include="Console\Styles\fonts\SourceCodePro-Regular.woff" />
+    <Content Include="Console\Styles\fonts\SourceCodePro-Semibold.woff" />
+    <Content Include="Console\Styles\fonts\Web.config" />
     <None Include="sitecore\shell\Themes\Standard\PowerShell.zip" />
   </ItemGroup>
   <ItemGroup />
